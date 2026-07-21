@@ -5,8 +5,8 @@ authors:
   given-names: "Yuliya"
   orcid: "https://orcid.org/0009-0000-6151-7415"
 title: "Quote Generator"
-version: 1.0
-doi: 10.5281/zenodo.18197967
-date-released: 2026-01-09
+version: 2.0
+doi: 10.5281/zenodo.21479364
+date-released: 2026-07-21
 url: "https://github.com/quotegeneratorj/quotegeneratorj.github.io"
 license: MIT
